@@ -1,0 +1,92 @@
+
+.main-container-portfolio{
+    max-width: 60%;
+    background-color: var(--container-color);
+    color: var(--container-text-color)
+}
+
+/* 
+   Use to add padding between flex-box items and resize 
+   item width when width is below 640px
+*/  
+.project-item {
+    overflow: auto;
+    border-style: solid;
+} 
+
+
+.project-caption {
+    position: absolute;
+    background-color: #FFBB00;
+    bottom: .1rem;
+    height: 3rem;
+    bottom:10%;
+    width: 100%;
+    padding-top: .5rem;
+}
+
+/*
+    add margin to add spacing when div is wrap to new row 
+    and remove l/r padding from Bootstrap col- class 
+*/
+.projects-container > div {
+    margin-top: 3rem;
+    padding-right:0;
+    padding-left:0;
+}
+
+.project-item:hover > h4{
+    background-color: var(--accent-color ) ;
+}
+
+/* 
+    Add margin-bottom to give space between last item and border.
+*/
+.projects-container:last-child {
+    margin-bottom: 3rem;
+}
+
+.projects-container  > div > h4 {
+    overflow: hidden;
+}
+
+@media (min-width:0px) and (max-width: 767px) {
+    .main-container-portfolio {
+        max-width: 82%;
+    }
+
+    .project-item {
+        max-width: 100%;
+        flex-basis: 100%;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    .main-container-portfolio{
+        max-width: 88%; 
+    }
+    .project-item {
+        flex-basis: 45%;
+    }
+} 
+
+@media (min-width: 980px ) and ( max-width: 1199px) {
+    .main-container-portfolio {
+        max-width: 60%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .project-item{
+        flex: 0 0 22%;
+    }
+    /* 
+        Will need to add a javascript for logic if there is a 
+        7th project
+    */
+    .projects-container::after {
+        content: "";
+        flex: 0 0 48%;
+    }
+
+}

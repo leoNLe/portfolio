@@ -1,0 +1,69 @@
+:root {
+   --accent-color: #FB6542;
+   --nav-color:   #375E97;
+   --container-color:  rgb(255, 255, 255);
+   --container-text-color: rgb(0, 0, 0);
+}
+
+body {
+    background-color: rgb(201, 191, 191);
+    height: 100vh;
+}
+
+.navbar {
+    padding: 0;
+    width: 100%;
+    background-color: var(--nav-color);
+}
+
+.navbar-nav > a {
+    color: white;
+}
+
+.navbar-nav > a:hover {
+    background-color: var(--accent-color);
+}
+
+.title-border {
+    border-bottom: solid;
+    border-color: var(--accent-color);
+}
+
+.blank-footer-bar {
+    background-color: var(--accent-color); 
+    height: .3rem;
+}
+.footer {
+    background-color: var(--nav-color);
+    color: white;
+}
+
+@media (min-width:0px) and (max-width: 767px) {
+    /* margin-left removed to make brand fill entire row */
+    .brand {
+        border-bottom: white solid;
+        border-width: 1px;
+    }
+    .navbar-brand {
+        margin: 0;
+    } 
+    .navbar-nav{
+        margin-right: auto;
+    } 
+    .brand {
+        width: 100vw;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width:979px) {
+    .navbar-brand {
+        margin-left: 1.5rem;
+    }
+}
+
+@media (min-width: 980px)  {
+    .navbar-brand {
+        margin-left: 3rem;
+    }
+}
