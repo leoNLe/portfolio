@@ -1,7 +1,9 @@
 import React from 'react';
 import Main from './main';
-import Navbar from "./components/navbar";
-import Footer from "./components/footer";
+import './assets/utilities.css' 
+
+import Navbar from "./components/navbar/navbar";
+import Footer from "./components/footer/footer";
 import './App.css';
 
 function App() {
