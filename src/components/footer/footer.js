@@ -1,13 +1,13 @@
 import React from 'react';
-
+import "./footer.css"
 function footer() {
     return (
   
-        <footer className="footer mt-auto w-100">
-            <div className="w-100 blank-bar"></div>
+        <footer className="footer">
+            <div className="blank-bar"></div>
             
-            <nav className="navbar-default text-center"> 
-            <a className="navbar-brand" href="!#">  {'\u00A9'} Copyright</a>
+            <nav className=""> 
+            <a className="" href="!#">  {'\u00A9'} Copyright</a>
             </nav>
         </footer>
     );

@@ -21,10 +21,6 @@ body {
     background-color: var(--accent-color); 
     height: .3rem;
 }
-.footer {
-    background-color: var(--nav-color);
-    color: white;
-}
 
 /* @media (min-width:0px) and (max-width: 767px) {
     /* margin-left removed to make brand fill entire row */
