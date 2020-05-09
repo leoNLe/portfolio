@@ -1,5 +1,5 @@
 import React from 'react';
-import Main from './main';
+import About from './components/about/about.js';
 import './assets/utilities.css' 
 
 import Navbar from "./components/navbar/navbar";
@@ -10,7 +10,7 @@ function App() {
     return (
     <div className="App">
         <Navbar />
-        <Main />
+        <About />
         <Footer />
     </div>
   );
