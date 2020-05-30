@@ -7,7 +7,6 @@ import Portfolio from './components/portfolio/portfolio.js';
 import About from './components/about/about.js';
 import Contact from "./components/contact/contact.js"
 
-
 import './assets/utilities.css' 
 import './App.css';
 
