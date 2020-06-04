@@ -13,7 +13,7 @@ import './App.css';
 function App() {
     return (
         <div className="App">
-            <Router>
+            <Router basename={process.env.PUBLIC_URL}>
                 <Navbar />
                     <Route exact path="/" ><About/> </Route>
                     <Route exact path="/portfolio"> <Portfolio/> </Route>
