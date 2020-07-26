@@ -13,12 +13,12 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Navbar />
       <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <Navbar />
         <Route default exact path="/">
           <About />
         </Route>
-        <Route exact path="/portfolio">
+        <Route exact path="/projects">
           <Portfolio />
         </Route>
         <Route exact path="/contact">
