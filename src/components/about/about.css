@@ -6,6 +6,7 @@
     justify-content: left;
     margin: 2em 1em 1em 1em;
     padding: 0 1.5em 1.5em 1.5em;
+    border-radius: 25px;
 }
 
 .personal-image {
@@ -15,6 +16,7 @@
 
 .lower-container {
     padding: 1em 0 0 1em;
+    font-size: large;
 }
 .statement {
     text-align: center;
@@ -22,10 +24,9 @@
     line-height: 1.5;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 980px) {
     .about-container{
-        max-width: 60%;
-        margin: 2em 0 0 2em;
+        margin: 5% 10%;
     }
     .personal-image {
         max-width: 20%;
@@ -43,7 +44,4 @@
         clear: both;
         display: table;
     }
-
-    
-    
 }

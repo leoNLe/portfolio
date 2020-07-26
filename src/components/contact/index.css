@@ -1,0 +1,90 @@
+/* .container-contact {
+  background-color: white;
+  margin: 2em 1em 1em 1em;
+  padding: 0 1.5em 1.5em 1.5em;
+  border-radius: 25px;
+}
+
+.email-form {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  padding-top: 1rem;
+}
+
+.form-input-div {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.form-input-div > * {
+  margin-bottom: .5rem;
+}
+
+.email-form input {
+  height: 1.75rem;
+}
+
+#message {
+  resize: none;
+  height: 10rem;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.links > * {
+  margin-right: 1rem;
+}
+
+.icon-scale:hover {
+  transform: scale(1.5);
+}
+
+.email-btn {
+  padding: .5rem 1rem;
+}
+.email-span .text {
+  visibility: hidden;
+  width: 30%;
+  background-color: var(--accent-color);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip 
+  position: absolute;
+  left: 33%;
+  top: 15%;
+  z-index: 1;
+}
+.email-span:hover .text {
+  visibility: visible;
+}
+
+.email-span text::after{
+  content: "sdsds";
+  position: absolute;	
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+
+}
+@media (min-width: 980px) {
+  .container-contact {
+    margin: 5% 10%;
+  }
+  .email-span .text {
+    width: 15%;
+    left: 19%;
+    top: 16%;
+  }
+} */

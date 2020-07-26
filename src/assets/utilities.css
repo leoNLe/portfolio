@@ -3,6 +3,7 @@
    --nav-color:   #375E97;
    --container-color:  rgb(255, 255, 255);
    --container-text-color: rgb(0, 0, 0);
+   font-size: 16px;
 }
 
 body {
