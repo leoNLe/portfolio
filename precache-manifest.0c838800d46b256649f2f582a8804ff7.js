@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5700d4f7667d04467a1b25aaac70229c",
+    "revision": "4effe5f54826904e83fcdea3f01867cc",
     "url": "/index.html"
   },
   {
-    "revision": "db084e15f71b92467df6",
-    "url": "/static/css/main.c9dc8f07.chunk.css"
+    "revision": "1ca588a99e6c467eba1d",
+    "url": "/static/css/main.92795463.chunk.css"
   },
   {
-    "revision": "6fdeb49ed3579def517e",
-    "url": "/static/js/2.d11b49c2.chunk.js"
+    "revision": "e86a04e44c9ac8171baf",
+    "url": "/static/js/2.e6f6b803.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.d11b49c2.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e6f6b803.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db084e15f71b92467df6",
-    "url": "/static/js/main.67bef615.chunk.js"
+    "revision": "1ca588a99e6c467eba1d",
+    "url": "/static/js/main.38679ad8.chunk.js"
   },
   {
     "revision": "b775e3132e0930477ff9",
     "url": "/static/js/runtime-main.17a0efde.js"
+  },
+  {
+    "revision": "37cec1e421cb122af422b7e5482af4c0",
+    "url": "/static/media/Wumpus-World.37cec1e4.png"
   },
   {
     "revision": "15f616259b8edcb3d35585805cefbcc6",
@@ -30,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "016fafd76abb38b38bd4c4962d361566",
     "url": "/static/media/hollywood.016fafd7.jpg"
+  },
+  {
+    "revision": "4553d1c6acf6554b98ecd197497ce6b7",
+    "url": "/static/media/investing.4553d1c6.jpg"
   },
   {
     "revision": "6d6e5088f0bf860795e19f721f926295",
