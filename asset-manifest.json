@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/leoNLe/portfolio/static/css/main.92795463.chunk.css",
-    "main.js": "/leoNLe/portfolio/static/js/main.a33d51ff.chunk.js",
-    "main.js.map": "/leoNLe/portfolio/static/js/main.a33d51ff.chunk.js.map",
-    "runtime-main.js": "/leoNLe/portfolio/static/js/runtime-main.d9a354e5.js",
-    "runtime-main.js.map": "/leoNLe/portfolio/static/js/runtime-main.d9a354e5.js.map",
-    "static/js/2.e6f6b803.chunk.js": "/leoNLe/portfolio/static/js/2.e6f6b803.chunk.js",
-    "static/js/2.e6f6b803.chunk.js.map": "/leoNLe/portfolio/static/js/2.e6f6b803.chunk.js.map",
-    "index.html": "/leoNLe/portfolio/index.html",
-    "precache-manifest.c1bc94fe775bfc3638b99fe48c0d471a.js": "/leoNLe/portfolio/precache-manifest.c1bc94fe775bfc3638b99fe48c0d471a.js",
-    "service-worker.js": "/leoNLe/portfolio/service-worker.js",
-    "static/css/main.92795463.chunk.css.map": "/leoNLe/portfolio/static/css/main.92795463.chunk.css.map",
-    "static/js/2.e6f6b803.chunk.js.LICENSE.txt": "/leoNLe/portfolio/static/js/2.e6f6b803.chunk.js.LICENSE.txt",
-    "static/media/Wumpus-World.png": "/leoNLe/portfolio/static/media/Wumpus-World.37cec1e4.png",
-    "static/media/file_system.jpeg": "/leoNLe/portfolio/static/media/file_system.15f61625.jpeg",
-    "static/media/hollywood.jpg": "/leoNLe/portfolio/static/media/hollywood.016fafd7.jpg",
-    "static/media/investing.jpg": "/leoNLe/portfolio/static/media/investing.4553d1c6.jpg",
-    "static/media/penguin.jpg": "/leoNLe/portfolio/static/media/penguin.6d6e5088.jpg",
-    "static/media/weather.png": "/leoNLe/portfolio/static/media/weather.fc31313b.png",
-    "static/media/webcrawler.jpg": "/leoNLe/portfolio/static/media/webcrawler.cadd60b6.jpg"
+    "main.css": "/portfolio/static/css/main.92795463.chunk.css",
+    "main.js": "/portfolio/static/js/main.02f7466a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.02f7466a.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f18b6ef5.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f18b6ef5.js.map",
+    "static/js/2.e6f6b803.chunk.js": "/portfolio/static/js/2.e6f6b803.chunk.js",
+    "static/js/2.e6f6b803.chunk.js.map": "/portfolio/static/js/2.e6f6b803.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.cd02565cddc88c1ad4d115a26cdef527.js": "/portfolio/precache-manifest.cd02565cddc88c1ad4d115a26cdef527.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.92795463.chunk.css.map": "/portfolio/static/css/main.92795463.chunk.css.map",
+    "static/js/2.e6f6b803.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e6f6b803.chunk.js.LICENSE.txt",
+    "static/media/Wumpus-World.png": "/portfolio/static/media/Wumpus-World.37cec1e4.png",
+    "static/media/file_system.jpeg": "/portfolio/static/media/file_system.15f61625.jpeg",
+    "static/media/hollywood.jpg": "/portfolio/static/media/hollywood.016fafd7.jpg",
+    "static/media/investing.jpg": "/portfolio/static/media/investing.4553d1c6.jpg",
+    "static/media/penguin.jpg": "/portfolio/static/media/penguin.6d6e5088.jpg",
+    "static/media/weather.png": "/portfolio/static/media/weather.fc31313b.png",
+    "static/media/webcrawler.jpg": "/portfolio/static/media/webcrawler.cadd60b6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9a354e5.js",
+    "static/js/runtime-main.f18b6ef5.js",
     "static/js/2.e6f6b803.chunk.js",
     "static/css/main.92795463.chunk.css",
-    "static/js/main.a33d51ff.chunk.js"
+    "static/js/main.02f7466a.chunk.js"
   ]
 }
