@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fb96dd7b54ce66b195b37725f89dae6",
+    "revision": "3d462e3cd9d7cd4b8779ea9c729b36f1",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "da09fb497e9a5a3c1d6b",
+    "revision": "7f3a9fc6cc21f439162c",
     "url": "/portfolio/static/css/main.b776cf9a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.4b0ec9a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da09fb497e9a5a3c1d6b",
-    "url": "/portfolio/static/js/main.7b8d05da.chunk.js"
+    "revision": "7f3a9fc6cc21f439162c",
+    "url": "/portfolio/static/js/main.0ab077f9.chunk.js"
   },
   {
     "revision": "ee3d72d161f98a5d4b9d",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37cec1e421cb122af422b7e5482af4c0",
     "url": "/portfolio/static/media/Wumpus-World.37cec1e4.png"
+  },
+  {
+    "revision": "8778ce090965505469fc8e04e6919d56",
+    "url": "/portfolio/static/media/budgetting.8778ce09.jpg"
   },
   {
     "revision": "15f616259b8edcb3d35585805cefbcc6",
