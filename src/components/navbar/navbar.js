@@ -15,7 +15,7 @@ function navbar() {
         <Link className="" to="/projects">
           Projects
         </Link>
-        <a className="" href={resume} target="_blank">
+        <a className="" href={resume} target="_blank" rel="noopener noreferrer">
           Resume
         </a>
         <div className="links">
