@@ -8,7 +8,9 @@
     padding: 0 1.5em 1.5em 1.5em;
     border-radius: 25px;
 }
-
+h4 {
+	margin-top: 0;	
+}
 .personal-image {
     max-width: 90%;
     padding: 0 1em 0 0;
@@ -28,12 +30,10 @@
     .about-container{
         margin: 5% 10%;
     }
-    .personal-image {
-        max-width: 20%;
-        float: left;
-    }
     .lower-container {
         padding: 1em 0 0 0; 
+				display: grid;
+				grid-template-columns: 1fr 3fr
     }
     .statement {
         margin-top: 0;

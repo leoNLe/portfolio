@@ -11,7 +11,8 @@ function navbar() {
     <nav className="navbar">
       <div className="brand">Leo Nghia Le</div>
       <div className="navbar-links">
-        <Link to="/">About</Link>
+        {/* <Link to="/"> Home </Link> */}
+        <Link to="/about">About</Link>
         <Link className="" to="/projects">
           Projects
         </Link>
@@ -19,7 +20,11 @@ function navbar() {
           Resume
         </a>
         <div className="links">
-          <a href="https://github.com/leoNLe/">
+          <a
+            href="https://linkedin.com/in/leonghiale"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <FontAwesomeIcon
               className="icon-scale"
               icon={faLinkedin}
@@ -27,7 +32,7 @@ function navbar() {
               href="https://github.com/leoNLe/"
             />
           </a>
-          <a href="https://www.linkedin.com/in/leo-le-412b2b1a9/">
+          <a href="https://github.com/leoNLe/">
             <FontAwesomeIcon className="icon-scale" icon={faGithub} size="2x" />
           </a>
           <div className="email-span">

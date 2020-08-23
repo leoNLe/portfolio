@@ -16,7 +16,7 @@
     padding: 2rem 0em;
     overflow: hidden;
 }
-
+/*
 .project-item {
     grid-column: auto / span 1;
     border: 1px solid;
@@ -50,7 +50,7 @@
 .project-item:hover {
    transform:  rotate(10deg);
 }
-
+*/
 @media (min-width: 980px) {
     .main-container-portfolio {
         margin: 5% 10%;

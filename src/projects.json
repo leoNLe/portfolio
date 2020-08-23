@@ -1,32 +1,36 @@
 [
   {
     "name": "Y.A.B.A",
-    "href": "https://github.com/leoNLe/yetanotherbudgetingapp",
-    "image": "budgetting.jpg"
+    "github": "https://github.com/leoNLe/yetanotherbudgetingapp",
+    "image": "budgetting.jpg",
+    "deploy": "https://yaba-1.herokuapp.com/"
   },
   {
     "name": "NVST",
-    "href": "https://github.com/leoNLe/project_2",
-    "image": "investing.jpg"
+    "github": "https://github.com/leoNLe/project_2",
+    "image": "investing.jpg",
+    "deploy": "https://nvst-1.herokuapp.com/"
   },
   {
     "name": "Hollywood Holidays",
-    "href": "https://github.com/leoNLe/Hollywood-Holidays",
-    "image": "hollywood.jpg"
+    "github": "https://github.com/leoNLe/Hollywood-Holidays",
+    "image": "hollywood.jpg",
+    "deploy": "https://leonle.github.io/Hollywood-Holidays/"
   },
   {
     "name": "Weather Dashboard",
-    "href": "https://github.com/leoNLe/Weather",
-    "image": "weather.png"
+    "github": "https://github.com/leoNLe/Weather",
+    "image": "weather.png",
+    "deploy": "https://leonle.github.io/Weather/"
   },
   {
     "name": "Webcrawler",
-    "href": "https://github.com/leoNLe/spacetime-crawler-master",
+    "github": "https://github.com/leoNLe/spacetime-crawler-master",
     "image": "webcrawler.jpg"
   },
   {
     "name": "File System",
-    "href": "https://github.com/leoNLe/File_System",
+    "github": "https://github.com/leoNLe/File_System",
     "image": "file_system.jpeg"
   }
 ]
