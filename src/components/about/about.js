@@ -9,7 +9,7 @@ function About() {
         <h3>About Me</h3>
       </div>
       <div className="lower-container">
-        <img src={personal} alt="personal" className="personal-image" />
+        {/*<img src={personal} alt="personal" className="personal-image" /> */}
         <div className="statement">
           <div>
             <h4>Who am i? </h4>
@@ -40,4 +40,3 @@ function About() {
 }
 
 export default About;
-
