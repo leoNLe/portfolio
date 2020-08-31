@@ -9,12 +9,12 @@ function About() {
         <h3>About Me</h3>
       </div>
       <div className="lower-container">
-        {/*<img src={personal} alt="personal" className="personal-image" /> */}
+        {/*				<img src={personal} alt="personal" className="personal-image" /> */}
         <div className="statement">
           <div>
             <h4>Who am i? </h4>
             <p>
-              {"\t"}Full-Stack Developer with a Computer Science degree and a
+              Full-Stack Developer with a Computer Science degree and a
               Certificate in Full-Stack Web Development from UCI. Skilled in
               object-oriented programming, Javascript, HTML, CSS, and SQL.
               Experienced in popular web frameworks and libraries such as React,

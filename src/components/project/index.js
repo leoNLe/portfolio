@@ -20,7 +20,7 @@ function Project(props) {
       <div>
         {props.deploy ? (
           <a target="_blank" rel="noopener noreferrer" href={props.github}>
-            Github Link for deployed App
+            Github Link
           </a>
         ) : null}{" "}
       </div>
