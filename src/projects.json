@@ -3,34 +3,52 @@
     "name": "Y.A.B.A",
     "github": "https://github.com/leoNLe/yetanotherbudgetingapp",
     "image": "budgetting.jpg",
-    "deploy": "https://yaba-1.herokuapp.com/"
+    "deploy": "https://yaba-1.herokuapp.com/",
+    "summary": "Budgeting application used to tracks your spending and categorized expenses into categories.",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "Mongoose",
+      "React",
+      "Reactstraps"
+    ]
   },
   {
     "name": "NVST",
     "github": "https://github.com/leoNLe/project_2",
     "image": "investing.jpg",
-    "deploy": "https://nvst-1.herokuapp.com/"
+    "deploy": "https://nvst-1.herokuapp.com/",
+    "summary": "Sandbox stock trading website that allows you to search for stocks using stock symbol and buy or sell them.",
+    "technologies": ["Node.js", "Expres.js", "Handlebars", "Sequelize"]
   },
   {
     "name": "Hollywood Holidays",
     "github": "https://github.com/leoNLe/Hollywood-Holidays",
     "image": "hollywood.jpg",
-    "deploy": "https://leonle.github.io/Hollywood-Holidays/"
+    "deploy": "https://leonle.github.io/Hollywood-Holidays/",
+    "summary": "Pure front end application that allows you to search for different movies and display where they were film based on IMDB api.  Information about the locations are pulled from Wikipedia API.",
+    "technologies": ["HTML5", "CSS3", "API"]
   },
   {
     "name": "Weather Dashboard",
     "github": "https://github.com/leoNLe/Weather",
     "image": "weather.png",
-    "deploy": "https://leonle.github.io/Weather/"
+    "deploy": "https://leonle.github.io/Weather/",
+    "summary": "Front end application for search for weather based on city and state.  Application will shows you current weather and the forecast for the next 5 days",
+    "technologies": ["HTML5", "CSS3", "API"]
   },
   {
     "name": "Webcrawler",
     "github": "https://github.com/leoNLe/spacetime-crawler-master",
-    "image": "webcrawler.jpg"
+    "image": "webcrawler.jpg",
+    "summary": "Webcrawler built to search for links between different sites from a single seed link.  Built to learn how to start building a search engine.",
+    "technologies": ["Python"]
   },
   {
     "name": "File System",
     "github": "https://github.com/leoNLe/File_System",
-    "image": "file_system.jpeg"
+    "image": "file_system.jpeg",
+    "summary": "CLI built in C to mimic a file system.  Application allows create, open and delete files.  Once opened, you can read, and write into the files.",
+    "technologies": ["C", "File Handling"]
   }
 ]

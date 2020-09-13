@@ -30,10 +30,16 @@ function navbar() {
               icon={faLinkedin}
               size="2x"
               href="https://github.com/leoNLe/"
+              style={{ color: "white" }}
             />
           </a>
           <a href="https://github.com/leoNLe/">
-            <FontAwesomeIcon className="icon-scale" icon={faGithub} size="2x" />
+            <FontAwesomeIcon
+              className="icon-scale"
+              icon={faGithub}
+              size="2x"
+              style={{ color: "white" }}
+            />
           </a>
           <div className="email-span">
             <div className="text">
@@ -45,6 +51,7 @@ function navbar() {
                 className="icon-scale"
                 icon={faEnvelope}
                 size="2x"
+                style={{ color: "white" }}
               />
             </a>
           </div>
