@@ -92,11 +92,11 @@
 }
 
 @media (min-width: 980px) {
-    .navbar {
+   .navbar {
         display: flex;
         padding: 0 10%;
     }
-		.navbar-links > * {
+		.navbar-links > *:nth-child(3)  {
 			border-right: 2px white solid;
 			padding: .5rem 1rem;
 		}

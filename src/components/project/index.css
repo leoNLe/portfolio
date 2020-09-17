@@ -55,7 +55,7 @@
 .tech-div {
 	grid-row: 4/5;
 	display: flex;
-	margin: .5rem;
+	margin: 1rem;
 	flex-wrap: wrap;
 	align-items: center;
 }
@@ -64,11 +64,5 @@
 	margin: .1rem .1rem;
 }
 
-.tech {
-	border: 1px solid var(--nav-color);
-	color: var(--nav-color);
-	border-radius: 10px;
-	margin: 0 .25rem;
-	padding: .1rem .5rem;
-}
+
 

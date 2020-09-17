@@ -1,0 +1,8 @@
+.tech {
+	border: 1px solid var(--nav-color);
+	color: var(--nav-color);
+	border-radius: 10px;
+	margin: 0 .25rem;
+	margin-bottom: .5rem;
+	padding: .1rem .5rem;
+}

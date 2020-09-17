@@ -1,4 +1,6 @@
 import React from "react";
+import TechBubble from "../TechBubble/";
+
 import "./index.css";
 import { faGithub, faNodeJs } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -41,16 +43,12 @@ function Project(props) {
           ) : null}
         </div>
 
-				<div className="summary">{props.summary}</div>
+        <div className="summary">{props.summary}</div>
       </div>
 
       <div className="tech-div">
         {props.technologies.map((tech) => {
-          return (
-            <div key={tech} className="tech">
-              {tech}
-            </div>
-          );
+          return <TechBubble key={tech} name={tech} />;
         })}
       </div>
     </div>
