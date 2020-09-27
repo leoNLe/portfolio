@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75f4df02634eaa4f7f8ad92e1b672721",
+    "revision": "e84caf062f073ec792170a615bbd0fc7",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "efd81b11a1c6c8ba0f33",
+    "revision": "a4f62566dfa75d07e2ec",
     "url": "/portfolio/static/css/main.238413db.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.83fa405b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efd81b11a1c6c8ba0f33",
-    "url": "/portfolio/static/js/main.882433a9.chunk.js"
+    "revision": "a4f62566dfa75d07e2ec",
+    "url": "/portfolio/static/js/main.3a1a4401.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/investing.4553d1c6.jpg"
   },
   {
-    "revision": "a08334b3e1d547fa857192532aed0005",
-    "url": "/portfolio/static/media/resume.a08334b3.pdf"
+    "revision": "d232fb0ff1a0353fdd67f4daab225b9b",
+    "url": "/portfolio/static/media/resume.d232fb0f.pdf"
   },
   {
     "revision": "fc31313bb55c21006362054521cb0b4d",
