@@ -57,5 +57,7 @@ const skills = [
   "React",
   "Bootstrap",
   "OOP",
+  "Java",
+  "C++/C",
 ];
 export default About;
